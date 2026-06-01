@@ -1,10 +1,10 @@
 <div align="center">
 
-# Luka Homepage
+# Dongbo Li - Website, modified from Luka Homepage
 
 ### A warm, minimal, responsive homepage template for researchers, students, builders, and creators.
 
-[中文说明](README.zh-CN.md) · [Live Demo](https://wzsyyh.github.io/luka-homepage-template/) · [Use This Template](https://github.com/wzsyyh/luka-homepage-template/generate)
+[Live Demo](https://wzsyyh.github.io/luka-homepage-template/) · [Use This Template](https://github.com/wzsyyh/luka-homepage-template/generate)
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-c2714f?style=flat-square)](https://wzsyyh.github.io/luka-homepage-template/)
 [![Template Ready](https://img.shields.io/badge/Template-Ready-3d3929?style=flat-square)](https://github.com/wzsyyh/luka-homepage-template/generate)
